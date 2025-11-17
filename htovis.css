@@ -9,7 +9,10 @@ h1{
   margin: 0px 0px 10px;
   color: #eb7100;
 }
-
+h2{
+  color: #eb7100;
+  text-align: left;
+}
 p{
   text-align:justify;
 }
@@ -61,3 +64,7 @@ li{
 .blokktores{
   clear: both;
 }
+
+.bevezeto {
+  font-weight: 600px;
+  }
