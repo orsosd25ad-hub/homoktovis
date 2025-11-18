@@ -1,6 +1,8 @@
 body{
   background-image: url('hatter.png');
   padding: 15px;
+  margin: 50px;
+  float: center;
 }
 
 h1{
@@ -67,4 +69,6 @@ li{
 
 .bevezeto {
   font-weight: 600px;
+  margin-left:500px ;
+  margin-right:500px;
   }
