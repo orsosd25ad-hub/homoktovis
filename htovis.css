@@ -10,10 +10,12 @@ h1{
   font-size: 222%;
   margin: 0px 0px 10px;
   color: #eb7100;
+  text-transform: uppercase;
 }
 h2{
   color: #eb7100;
   text-align: left;
+   text-transform: uppercase;
 }
 p{
   text-align:justify;
@@ -68,7 +70,7 @@ li{
 }
 
 .bevezeto {
-  font-weight: 600px;
+  font-weight: 800px;
   margin-left:500px ;
   margin-right:500px;
   }
