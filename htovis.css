@@ -37,6 +37,7 @@ p:first-letter{
   font-size: 75%;
   background-color: #f1f1f1;
   box-shadow: 10px 10px 5px #cfb7a2;
+
 }
 
 #erdekesseg{
@@ -70,10 +71,11 @@ li{
   clear: both;
 }
 
-.bevezeto {
-  font-weight: 800px;
-  margin-left:500px ;
+#bevezeto {
+  font-weight: 900px;
+  margin-left:400px ;
   margin-right:500px;
+  font-size: large;
   }
 
   h3{
