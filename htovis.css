@@ -15,7 +15,7 @@ h1{
 h2{
   color: #eb7100;
   text-align: left;
-   text-transform: uppercase;
+  text-transform: uppercase;
 }
 p{
   text-align:justify;
@@ -78,4 +78,12 @@ li{
 
   h3{
     text-transform: uppercase;
+  }
+
+  h4{
+     color: #eb7100;
+     text-align: center;
+    text-transform: uppercase;
+    font-weight: 900px;
+    font-size: large;
   }
