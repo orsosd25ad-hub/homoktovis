@@ -1,35 +1,39 @@
-body{
+body {
   background-image: url('hatter.png');
   padding: 15px;
   margin: 50px;
   float: center;
 }
 
-h1{
-  text-align:center;
+h1 {
+  text-align: center;
   font-size: 222%;
   margin: 0px 0px 10px;
   color: #eb7100;
   text-transform: uppercase;
 }
-h2{
+
+h2 {
   color: #eb7100;
-  text-align: left;
+  text-align: center;
   text-transform: uppercase;
 }
-p{
-  text-align:justify;
+
+p {
+  text-align:center;
+  margin-left: 500px;
+  margin-right: 600px;
 }
 
-p:first-letter{
+p:first-letter {
   margin-left: 25px;
 }
 
-.f{
-  font-weight:bold;
+.f {
+  font-weight: bold;
 }
 
-.keret{
+.keret {
   margin: 10px auto;
   text-align: center;
   padding: 10px;
@@ -39,9 +43,9 @@ p:first-letter{
   box-shadow: 10px 10px 5px #cfb7a2;
 }
 
-#erdekesseg{
-  width:250px;
-  float:right;
+#erdekesseg {
+  width: 250px;
+  float: right;
   margin: 0px 0px 20px 15px;
   background-color: #ffffcc;
   -ms-transform: rotate(5deg);
@@ -49,42 +53,53 @@ p:first-letter{
   transform: rotate(5deg)
 }
 
-#bokor{
+#bokor {
   width: 550px;
   border: 5px solid #eb7100;
 }
 
-#termes{
-  float:left;
+#termes {
+  float: left;
   height: 390px;
   margin-right: 25px;
 }
 
-li{
+li {
   margin: 3px 0px;
   font-style: italic;
   list-style-image: url(bogyo.png);
+  float: ;
+
 }
 
-.blokktores{
+.blokktores {
   clear: both;
 }
 
 #bevezeto {
-  font-weight:600px;
-  margin-left:500px ;
-  margin-right:600px;
+  font-weight: 600px;
+  margin-left: 500px;
+  margin-right: 600px;
   font-size: large;
-  }
+}
 
-  h3{
-    text-transform: uppercase;
-  }
+h3 {
+  text-transform: uppercase;
+}
 
-  h4{
-     color: #eb7100;
-     text-align: center;
-     text-transform: uppercase;
-     font-weight: 900px;
-     font-size: large;
-  }
+h4 {
+  color: #eb7100;
+  text-align: center;
+  text-transform: uppercase;
+  font-weight: 900px;
+  font-size: large;
+}
+
+.container{
+   width: 700px;
+    background-color: lightgoldenrodyellow;
+    margin: 600px 500px ;
+    padding: 70px;
+    border: 6px solid lightcoral;
+    border-radius: 10px
+}
